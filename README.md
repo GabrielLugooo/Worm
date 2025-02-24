@@ -24,8 +24,8 @@ Through this project, users can better understand how to manipulate files and di
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
 
 - Python
-- shutil (Python library)
-- sys (Python library)
+- `shutil` (Python library)
+- `sys` (Python library)
 
 ### Project
 

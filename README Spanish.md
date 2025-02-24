@@ -24,8 +24,8 @@ A través de este proyecto, los usuarios pueden comprender mejor cómo manipular
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
 
 - Python
-- shutil (biblioteca de Python)
-- sys (biblioteca de Python)
+- `shutil` (biblioteca de Python)
+- `sys` (biblioteca de Python)
 
 ### Proyecto
 
