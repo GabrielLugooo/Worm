@@ -22,6 +22,8 @@ Through this project, users can better understand how to manipulate files and di
 ### Tools Used
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/shutil-000000?logo=shutil&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/sys%20argv-000000?logo=sys.argv&logoSize=auto)
 
 - Python
 - `shutil` (Python library)
